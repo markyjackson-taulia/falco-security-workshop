@@ -4,7 +4,7 @@ This repository contains the necessary files required to go through the exercise
 
 ## Exercises
 
-Container Security Workshop - [Google Slides](https://setns.run/falcows)
+Container Security Workshop - [Google Slides](https://docs.google.com/presentation/d/1tqR6uCdx7b6YJIrhDZfqlvzfzxOJOx_DkOF_WJ5GdPk/edit?usp=sharing)
 
 Each exercise contains a `commands` file with the commands to complete the exercise. In addition, the [slides](https://setns.run/falcows) contain the commands to run and the expected output. 
 
